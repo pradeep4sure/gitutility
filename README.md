@@ -1,3 +1,3 @@
 # gitutility
 practicing git  
-Hello I am in master branch. to test conflict.
+Hello I am in develop branch. to test conflict.
